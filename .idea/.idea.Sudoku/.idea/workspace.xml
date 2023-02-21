@@ -4,7 +4,7 @@
     <projectFile>Sudoku.Benchmark/Sudoku.Benchmark.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1283412e-55d5-4f58-b9ff-f49798f69162" name="Changes" comment="Modification to find the error (asignment of first color avalaible) --&gt; Check the Sudokugrid while resolve and asign only if one color is avalaible.">
+    <list default="true" id="1283412e-55d5-4f58-b9ff-f49798f69162" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Sudoku/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Sudoku/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ColorationGraphes/ColoredGraphSolver.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ColorationGraphes/ColoredGraphSolver.cs" afterDir="false" />
     </list>
@@ -79,6 +79,9 @@
       <workItem from="1676269648550" duration="2848000" />
       <workItem from="1676272605212" duration="2331000" />
       <workItem from="1676316694747" duration="7313000" />
+      <workItem from="1676475571743" duration="2433000" />
+      <workItem from="1676562845158" duration="1387000" />
+      <workItem from="1676968796673" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="Creation of the project &quot;ColorationGraph&quot; and the dependencies">
       <created>1674640646243</created>
@@ -122,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675939348150</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Implementation of last solution proposed on the TP sheet (Algorithm DSaturn)">
+      <created>1676475715055</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676475715056</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,7 +159,8 @@
     <MESSAGE value="Adapting coloring algorithm" />
     <MESSAGE value="First try of Coloring Algorithm (miss debbogage)" />
     <MESSAGE value="Modification to find the error (asignment of first color avalaible) --&gt; Check the Sudokugrid while resolve and asign only if one color is avalaible." />
-    <option name="LAST_COMMIT_MESSAGE" value="Modification to find the error (asignment of first color avalaible) --&gt; Check the Sudokugrid while resolve and asign only if one color is avalaible." />
+    <MESSAGE value="Implementation of last solution proposed on the TP sheet (Algorithm DSaturn)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementation of last solution proposed on the TP sheet (Algorithm DSaturn)" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

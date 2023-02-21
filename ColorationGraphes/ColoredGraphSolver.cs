@@ -241,7 +241,7 @@ class DSatur
         }
         for (int i = 0; i < arr.GetLength(1); i++)
         {
-            if (arr[2, i] >= max)
+            if (arr[2, i] == max)
             {
                 set.Add(i); // Ajout d'un index à l'ensemble
             }
